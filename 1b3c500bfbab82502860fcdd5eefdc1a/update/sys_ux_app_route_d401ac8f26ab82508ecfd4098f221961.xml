@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Good Business Book 2608 App Config">9c01ac8f36ab825043e20a1bb453f276</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Dashboard Library</name>
+        <optional_parameters>filter</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dashboard-library</route_type>
+        <screen_type display_value="Dashboard Library">1401ac8f28ab82505d667748faeaad61</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 14:13:26</sys_created_on>
+        <sys_id>d401ac8f26ab82508ecfd4098f221961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard Library</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sys_ux_app_route_d401ac8f26ab82508ecfd4098f221961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 14:13:26</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d401ac8f26ab82508ecfd4098f221961"/>
+</record_update>

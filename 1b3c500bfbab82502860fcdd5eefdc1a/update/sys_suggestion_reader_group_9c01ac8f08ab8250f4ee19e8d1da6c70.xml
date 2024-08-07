@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Good Business Book 2608 - Workspace Search">1801ac8f1eab8250edceaacbe23ae76d</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 14:13:26</sys_created_on>
+        <sys_id>9c01ac8f08ab8250f4ee19e8d1da6c70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_9c01ac8f08ab8250f4ee19e8d1da6c70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 14:13:26</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

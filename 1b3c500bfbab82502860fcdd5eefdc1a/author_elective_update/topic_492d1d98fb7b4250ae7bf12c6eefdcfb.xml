@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="DELETE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <banner_image/>
+        <banner_image_url/>
+        <description>marketing service request event or competitive analysis</description>
+        <icon/>
+        <icon_url/>
+        <name>Marketing</name>
+        <order/>
+        <parent_topic/>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:49:17</sys_created_on>
+        <sys_id>492d1d98fb7b4250ae7bf12c6eefdcfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>topic_492d1d98fb7b4250ae7bf12c6eefdcfb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:49:17</sys_updated_on>
+        <taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path/>
+    </topic>
+    <sys_translated_text action="DELETE" query="documentkey=492d1d98fb7b4250ae7bf12c6eefdcfb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</application>
+        <file_path/>
+        <instance_id>b001a666ebf28250e483f459bad0cde0</instance_id>
+        <instance_name>demoallwf76386</instance_name>
+        <name>topic_492d1d98fb7b4250ae7bf12c6eefdcfb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="topic"><topic action="INSERT_OR_UPDATE"><active>true</active><apply_to_child_topics>false</apply_to_child_topics><banner_image/><banner_image_url/><description>marketing service request event or competitive analysis</description><icon/><icon_url/><name>Marketing</name><order/><parent_topic/><sys_class_name>topic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-30 15:49:17</sys_created_on><sys_id>492d1d98fb7b4250ae7bf12c6eefdcfb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Marketing</sys_name><sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package><sys_policy/><sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope><sys_update_name>topic_492d1d98fb7b4250ae7bf12c6eefdcfb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-30 15:49:17</sys_updated_on><taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy><template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template><topic_based_navigation>false</topic_based_navigation><topic_contributor/><topic_manager/><topic_path/></topic><sys_translated_text action="delete_multiple" query="documentkey=492d1d98fb7b4250ae7bf12c6eefdcfb"/></record_update>]]></payload>
+        <payload_hash>-1001532110</payload_hash>
+        <record_name>Marketing</record_name>
+        <reverted_from/>
+        <source>d33c500bfbab82502860fcdd5eefdc69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:49:17</sys_created_on>
+        <sys_id>eb4d1998fb7b4250ae7bf12c6eefdc1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1910454e1ec0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:49:17</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>af4d1998737b425085290ecbc728371c</update_guid>
+        <update_guid_history>af4d1998737b425085290ecbc728371c:-1001532110</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Marketing">fabd9dd8fb7b4250ae7bf12c6eefdcee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:51:08</sys_created_on>
+        <sys_db_object display_value="Topic" name="topic">topic</sys_db_object>
+        <sys_id>001120c5eada49608602a474a1c2f040</sys_id>
+        <sys_metadata>492d1d98fb7b4250ae7bf12c6eefdcfb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_scope_delete display_value="">076aa5b3b9624a0885ecb109264f8c40</sys_scope_delete>
+        <sys_update_name>topic_492d1d98fb7b4250ae7bf12c6eefdcfb</sys_update_name>
+        <sys_update_version display_value="topic_492d1d98fb7b4250ae7bf12c6eefdcfb">eb4d1998fb7b4250ae7bf12c6eefdc1d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:51:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

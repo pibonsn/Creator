@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="884c900bfbab82502860fcdd5eefdc6e" label="Book Comments" max_length="40" name="x_snc_good_busin_0_book_comments" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Comment Type" mandatory="true" max_length="40" name="comment_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Note" value="note"/>
+                <element inactive_on_update="false" label="Review" value="review"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Comment Author" mandatory="true" max_length="32" name="comment_author" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Book" mandatory="true" max_length="32" name="book" reference="x_snc_good_busin_0_books" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Comment Date" mandatory="true" max_length="40" name="comment_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Comment" mandatory="true" max_length="40" name="comment" type="string"/>
+        <index name="index">
+            <element name="book"/>
+        </index>
+        <index name="index2">
+            <element name="comment_author"/>
+        </index>
+    </element>
+</database>

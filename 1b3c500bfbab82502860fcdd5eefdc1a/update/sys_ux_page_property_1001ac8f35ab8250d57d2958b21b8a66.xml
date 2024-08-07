@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Good Business Book 2608">d801ac8f4fab82509d29ed070a17b976</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 14:13:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1001ac8f35ab8250d57d2958b21b8a66</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sys_ux_page_property_1001ac8f35ab8250d57d2958b21b8a66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 14:13:30</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_snc_good_busin_0.d801ac8f4fab82509d29ed070a17b976.root.globalSearchDataConfigId</unique_name>
+        <value>9c01ac8f98ab825092e4126704e6676d</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=1001ac8f35ab8250d57d2958b21b8a66"/>
+</record_update>

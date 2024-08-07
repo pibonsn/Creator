@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>IHUB_TARGET_TEMP_x_snc_good_busin_0_books</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>Temp_x_snc_good_busin_0_books</path>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 14:26:29</sys_created_on>
+        <sys_id>bbf3a0c3fbeb82502860fcdd5eefdc4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_snc_good_busin_0_books</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="books_etl_ihub">bff3ec83fbeb82502860fcdd5eefdc5b</sys_rte_eb_definition>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_bbf3a0c3fbeb82502860fcdd5eefdc4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 14:26:29</sys_updated_on>
+        <table/>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</application>
+        <file_path/>
+        <instance_id>b001a666ebf28250e483f459bad0cde0</instance_id>
+        <instance_name>demoallwf76386</instance_name>
+        <name>sys_rte_eb_etl_entity_bbf3a0c3fbeb82502860fcdd5eefdc4b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>IHUB_TARGET_TEMP_x_snc_good_busin_0_books</name><parent_entity/><parent_id_field/><path>Temp_x_snc_good_busin_0_books</path><run_business_rules>false</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-26 14:26:29</sys_created_on><sys_id>bbf3a0c3fbeb82502860fcdd5eefdc4b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IHUB_TARGET_TEMP_x_snc_good_busin_0_books</sys_name><sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package><sys_policy/><sys_rte_eb_definition display_value="books_etl_ihub">bff3ec83fbeb82502860fcdd5eefdc5b</sys_rte_eb_definition><sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope><sys_update_name>sys_rte_eb_etl_entity_bbf3a0c3fbeb82502860fcdd5eefdc4b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-26 14:26:29</sys_updated_on><table/></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>108919531</payload_hash>
+        <record_name>IHUB_TARGET_TEMP_x_snc_good_busin_0_books</record_name>
+        <reverted_from/>
+        <source>d33c500bfbab82502860fcdd5eefdc69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 14:26:29</sys_created_on>
+        <sys_id>7bf3a0c3fbeb82502860fcdd5eefdc4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190ef6fa4250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 14:26:29</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>3ff3a0c3d1eb825071eb973e15db2b4c</update_guid>
+        <update_guid_history>3ff3a0c3d1eb825071eb973e15db2b4c:108919531</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 14:29:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>23747db71aeb499885bff54cb8b1fc40</sys_id>
+        <sys_metadata>bbf3a0c3fbeb82502860fcdd5eefdc4b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_snc_good_busin_0_books</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_scope_delete display_value="">076aa5b3b9624a0885ecb109264f8c40</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_bbf3a0c3fbeb82502860fcdd5eefdc4b</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_bbf3a0c3fbeb82502860fcdd5eefdc4b">7bf3a0c3fbeb82502860fcdd5eefdc4d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 14:29:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

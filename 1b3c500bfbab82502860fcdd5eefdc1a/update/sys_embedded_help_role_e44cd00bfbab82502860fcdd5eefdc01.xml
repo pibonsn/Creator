@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_good_busin_0.employee" name="x_snc_good_busin_0.employee">6c4c900bfbab82502860fcdd5eefdcff</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 13:52:40</sys_created_on>
+        <sys_id>e44cd00bfbab82502860fcdd5eefdc01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6c4c900bfbab82502860fcdd5eefdcff</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e44cd00bfbab82502860fcdd5eefdc01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 13:52:40</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

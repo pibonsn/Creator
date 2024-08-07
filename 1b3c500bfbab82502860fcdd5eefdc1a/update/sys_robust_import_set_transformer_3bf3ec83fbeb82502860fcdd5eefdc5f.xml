@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for books</description>
+        <name>books_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="books_etl_ihub">bff3ec83fbeb82502860fcdd5eefdc5b</robust_transform_engine>
+        <source_table>x_snc_good_busin_0_ihub_import_e2b32c83fbeb82502860fcdd5eefdc2f</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 14:26:29</sys_created_on>
+        <sys_id>3bf3ec83fbeb82502860fcdd5eefdc5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>books_rte_ihub</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_3bf3ec83fbeb82502860fcdd5eefdc5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 14:26:29</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

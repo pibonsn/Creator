@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Benchmark Request">52c7ddd0fb7b4250ae7bf12c6eefdc8d</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:50:39</sys_created_on>
+        <sys_id>379d1dd8fb7b4250ae7bf12c6eefdc0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Benchmark Request</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_379d1dd8fb7b4250ae7bf12c6eefdc0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:50:39</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</application>
+        <file_path/>
+        <instance_id>b001a666ebf28250e483f459bad0cde0</instance_id>
+        <instance_name>demoallwf76386</instance_name>
+        <name>sc_cat_item_catalog_379d1dd8fb7b4250ae7bf12c6eefdc0a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Benchmark Request">52c7ddd0fb7b4250ae7bf12c6eefdc8d</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-30 15:50:39</sys_created_on><sys_id>379d1dd8fb7b4250ae7bf12c6eefdc0a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Benchmark Request</sys_name><sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package><sys_policy/><sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope><sys_update_name>sc_cat_item_catalog_379d1dd8fb7b4250ae7bf12c6eefdc0a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-30 15:50:39</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1957253775</payload_hash>
+        <record_name>Service Catalog.Benchmark Request</record_name>
+        <reverted_from/>
+        <source>d33c500bfbab82502860fcdd5eefdc69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:50:39</sys_created_on>
+        <sys_id>3f9d1dd8fb7b4250ae7bf12c6eefdc0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1910456227d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:50:39</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>ff9d1dd8647b425026f1c300bcbb6d0c</update_guid>
+        <update_guid_history>ff9d1dd8647b425026f1c300bcbb6d0c:-1957253775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Benchmark Request">7b9d1dd8fb7b4250ae7bf12c6eefdc4f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:50:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>05643c329e7f4d488e5000c9f588ecb1</sys_id>
+        <sys_metadata>379d1dd8fb7b4250ae7bf12c6eefdc0a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Benchmark Request</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_scope_delete display_value="">076aa5b3b9624a0885ecb109264f8c40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_379d1dd8fb7b4250ae7bf12c6eefdc0a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_379d1dd8fb7b4250ae7bf12c6eefdc0a">3f9d1dd8fb7b4250ae7bf12c6eefdc0d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:50:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

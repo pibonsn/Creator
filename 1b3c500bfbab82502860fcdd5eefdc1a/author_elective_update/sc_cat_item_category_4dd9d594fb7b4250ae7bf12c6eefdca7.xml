@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Benchmark Request test1">52c7ddd0fb7b4250ae7bf12c6eefdc8d</sc_cat_item>
+        <sc_category display_value="Printers">5d643c6a3771300054b6a3549dbe5db0</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:34:05</sys_created_on>
+        <sys_id>4dd9d594fb7b4250ae7bf12c6eefdca7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Printers.Benchmark Request test1</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sc_cat_item_category_4dd9d594fb7b4250ae7bf12c6eefdca7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:34:11</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</application>
+        <file_path/>
+        <instance_id>b001a666ebf28250e483f459bad0cde0</instance_id>
+        <instance_name>demoallwf76386</instance_name>
+        <name>sc_cat_item_category_4dd9d594fb7b4250ae7bf12c6eefdca7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Benchmark Request test1">52c7ddd0fb7b4250ae7bf12c6eefdc8d</sc_cat_item><sc_category display_value="Printers">5d643c6a3771300054b6a3549dbe5db0</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-30 15:34:05</sys_created_on><sys_id>4dd9d594fb7b4250ae7bf12c6eefdca7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Printers.Benchmark Request test1</sys_name><sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package><sys_policy/><sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope><sys_update_name>sc_cat_item_category_4dd9d594fb7b4250ae7bf12c6eefdca7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-30 15:34:11</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1092676443</payload_hash>
+        <record_name>Printers.Benchmark Request test1</record_name>
+        <reverted_from/>
+        <source>d2d95994fb7b4250ae7bf12c6eefdc5a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:34:11</sys_created_on>
+        <sys_id>6ed95994fb7b4250ae7bf12c6eefdcbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19104470e6c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:34:11</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>eed95994847b4250301270c8583511be</update_guid>
+        <update_guid_history>eed95994847b4250301270c8583511be:-1092676443</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Printers.Benchmark Request test1">279dd9d8fb7b4250ae7bf12c6eefdcd6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:50:39</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>43ebdb2bd1254b2f91eacf32b596d929</sys_id>
+        <sys_metadata>4dd9d594fb7b4250ae7bf12c6eefdca7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Printers.Benchmark Request test1</sys_name>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_scope_delete display_value="">076aa5b3b9624a0885ecb109264f8c40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_4dd9d594fb7b4250ae7bf12c6eefdca7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_4dd9d594fb7b4250ae7bf12c6eefdca7">6ed95994fb7b4250ae7bf12c6eefdcbf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:50:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

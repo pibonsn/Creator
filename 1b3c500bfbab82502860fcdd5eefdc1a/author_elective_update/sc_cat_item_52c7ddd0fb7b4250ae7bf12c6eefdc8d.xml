@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-01 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Benchmark Request</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=52c7ddd0fb7b4250ae7bf12c6eefdc8d&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>submit</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="Standard items in Service Catalog">dab9529cbd002010f8775d9559d0dab6</sc_template>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:25:38</sys_created_on>
+        <sys_id>52c7ddd0fb7b4250ae7bf12c6eefdc8d</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Benchmark Request</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sc_cat_item_52c7ddd0fb7b4250ae7bf12c6eefdc8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:50:39</sys_updated_on>
+        <taxonomy_topic display_value="Accessories">0fb45ba7c3053010069aec4b7d40dd40</taxonomy_topic>
+        <template/>
+        <template_manager_roles/>
+        <turn_off_nowassist_conversation>false</turn_off_nowassist_conversation>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>6</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=52c7ddd0fb7b4250ae7bf12c6eefdc8d"/>
+    <fx_price action="DELETE" query="id=52c7ddd0fb7b4250ae7bf12c6eefdc8d"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>price</field>
+        <id>52c7ddd0fb7b4250ae7bf12c6eefdc8d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:25:38</sys_created_on>
+        <sys_id>1de7d114fb7b4250ae7bf12c6eefdccf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:25:38</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</application>
+        <file_path/>
+        <instance_id>b001a666ebf28250e483f459bad0cde0</instance_id>
+        <instance_name>demoallwf76386</instance_name>
+        <name>sc_cat_item_52c7ddd0fb7b4250ae7bf12c6eefdc8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category/><checked_out>false</checked_out><cost>0</cost><custom_cart/><delivery_plan/><delivery_plan_script/><delivery_time>1970-01-01 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><make_item_non_conversational>false</make_item_non_conversational><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Benchmark Request</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>true</no_cart_v2><no_delivery_time_v2>true</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>true</no_quantity_v2><no_save_as_draft>false</no_save_as_draft><no_search>false</no_search><no_wishlist_v2>true</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=52c7ddd0fb7b4250ae7bf12c6eefdc8d&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><request_method>submit</request_method><roles/><sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><sc_template display_value="Standard items in Service Catalog">dab9529cbd002010f8775d9559d0dab6</sc_template><short_description/><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state>published</state><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-30 15:25:38</sys_created_on><sys_id>52c7ddd0fb7b4250ae7bf12c6eefdc8d</sys_id><sys_mod_count>9</sys_mod_count><sys_name>Benchmark Request</sys_name><sys_package/><sys_policy/><sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope><sys_update_name>sc_cat_item_52c7ddd0fb7b4250ae7bf12c6eefdc8d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-30 15:50:39</sys_updated_on><taxonomy_topic display_value="Accessories">0fb45ba7c3053010069aec4b7d40dd40</taxonomy_topic><template/><template_manager_roles/><turn_off_nowassist_conversation>false</turn_off_nowassist_conversation><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><version>6</version><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=52c7ddd0fb7b4250ae7bf12c6eefdc8d"/><fx_price action="delete_multiple" query="id=52c7ddd0fb7b4250ae7bf12c6eefdc8d"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="GBP">GBP</currency><field>price</field><id>52c7ddd0fb7b4250ae7bf12c6eefdc8d</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-30 15:25:38</sys_created_on><sys_id>1de7d114fb7b4250ae7bf12c6eefdccf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-30 15:25:38</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-203755794</payload_hash>
+        <record_name>Benchmark Request</record_name>
+        <reverted_from/>
+        <source>d33c500bfbab82502860fcdd5eefdc69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:50:39</sys_created_on>
+        <sys_id>b79d1dd8fb7b4250ae7bf12c6eefdc34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191045624260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:50:39</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>fb9d1dd80c7b4250f0e3074b6ede1733</update_guid>
+        <update_guid_history>fb9d1dd80c7b4250f0e3074b6ede1733:-203755794,b39d1dd82a7b425099b7c30ddf169a1d:923522173,bb9d1dd8827b42506cf85ace9a06d512:1900967878,bf9d1dd8ba7b4250b459388283bff20e:-956671634,517d55d8a47b425005e80967b6b0563e:1319077288,6ad95994747b42502d1f6bf78eee6bed:209248647,ead95994187b4250b7711fa19dcaece5:650654526</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Benchmark Request">339d1dd8fb7b4250ae7bf12c6eefdc39</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 15:50:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>2ea2a01e195d48b0896f58ef1cf39900</sys_id>
+        <sys_metadata>52c7ddd0fb7b4250ae7bf12c6eefdc8d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Benchmark Request</sys_name>
+        <sys_package/>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_scope_delete display_value="">076aa5b3b9624a0885ecb109264f8c40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_52c7ddd0fb7b4250ae7bf12c6eefdc8d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_52c7ddd0fb7b4250ae7bf12c6eefdc8d">b79d1dd8fb7b4250ae7bf12c6eefdc34</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 15:50:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

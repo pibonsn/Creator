@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="author 2">73f3a0c3fbeb82502860fcdd5eefdc33</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 14:29:16</sys_created_on>
+        <sys_id>eca4acc3fbeb82502860fcdd5eefdc20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Good Business Book 2608" source="x_snc_good_busin_0">1b3c500bfbab82502860fcdd5eefdc1a</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="books_etl_ihub">bff3ec83fbeb82502860fcdd5eefdc5b</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">eca4acc3fbeb82502860fcdd5eefdc1b</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Good Business Book 2608">1b3c500bfbab82502860fcdd5eefdc1a</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_eca4acc3fbeb82502860fcdd5eefdc20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 14:29:16</sys_updated_on>
+        <target_sys_rte_eb_field display_value="author 2_sn_ihub_target_publisher">a0a46cc3fbeb82502860fcdd5eefdcf9</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>
